@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1719177026 source:c:\users\leoga\downloads\finalllll\descanso_garantido_zip\estadialib.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"utilsLib.h"
+	"pessoasLib.h"
+	"quartoLib.h"
+	"estadiaLib.h"
+
+1719163258 c:\users\leoga\downloads\finalllll\descanso_garantido_zip\utilslib.h
+
+1719176512 c:\users\leoga\downloads\finalllll\descanso_garantido_zip\pessoaslib.h
+
+1719176460 c:\users\leoga\downloads\finalllll\descanso_garantido_zip\quartolib.h
+
+1719176380 c:\users\leoga\downloads\finalllll\descanso_garantido_zip\estadialib.h
+
+1719157378 source:c:\users\leoga\downloads\finalllll\descanso_garantido_zip\fidelidadelib.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	"estadiaLib.h"
+
+1719177072 source:c:\users\leoga\downloads\finalllll\descanso_garantido_zip\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"utilsLib.h"
+	"pessoasLib.h"
+	"quartoLib.h"
+	"estadiaLib.h"
+
+1719176942 source:c:\users\leoga\downloads\finalllll\descanso_garantido_zip\pesquisapessoaslib.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+	<locale.h>
+	"utilsLib.h"
+	"pessoasLib.h"
+	"pesquisaPessoasLib.h"
+
+1719173336 c:\users\leoga\downloads\finalllll\descanso_garantido_zip\pesquisapessoaslib.h
+
+1719176528 source:c:\users\leoga\downloads\finalllll\descanso_garantido_zip\pessoaslib.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"utilsLib.h"
+	"pessoasLib.h"
+	"estadiaLib.h"
+	"pesquisaPessoasLib.h"
+
+1719176482 source:c:\users\leoga\downloads\finalllll\descanso_garantido_zip\quartolib.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"utilsLib.h"
+	"quartoLib.h"
+
+1719163308 source:c:\users\leoga\downloads\finalllll\descanso_garantido_zip\utilslib.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utilsLib.h"
+
